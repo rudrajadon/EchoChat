@@ -2,7 +2,12 @@
 
 **EchoChat** is a real-time chat application built with the MERN stack, designed for seamless and responsive communication. It offers secure messaging, live online status, image sharing, profile customization, theming, and more—making it a complete modern chat solution.
 
-**Live Demo**: [https://echochat-75x2.onrender.com](https://echochat-75x2.onrender.com)
+---
+
+## Deployment
+
+The application is deployed and accessible online.  
+Check it out here: [https://echochat-75x2.onrender.com](https://echochat-75x2.onrender.com)
 
 ---
 
@@ -67,7 +72,7 @@
 
 ---
 
-## Tech Stack
+## Tech Stacks
 
 ### Frontend
 
@@ -89,5 +94,4 @@
 - JWT for authentication
 - Cloudinary for image uploads
 
----
-
+  
