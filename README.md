@@ -13,6 +13,10 @@ Check it out here: [https://echochat-75x2.onrender.com](https://echochat-75x2.on
 
 ## Screenshots
 
+- Signup Page 
+  
+  ![](./assets/signup_page.png)
+  
 - Login Page
   
   ![](./assets/login_page.png)
@@ -28,10 +32,6 @@ Check it out here: [https://echochat-75x2.onrender.com](https://echochat-75x2.on
 - Settings / Theme Switcher
   
   ![](./assets/settings_page.png)
-
-- Signup Page 
-  
-  ![](./assets/signup_page.png)
 
 ---
 
