@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rudrajadon/EchoChat.git"
+    "url": "git+https://github.com/rudrajadon/Echo-Chat.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rudrajadon/EchoChat/issues"
+    "url": "https://github.com/rudrajadon/Echo-Chat/issues"
   },
-  "homepage": "https://github.com/rudrajadon/EchoChat#readme",
+  "homepage": "https://github.com/rudrajadon/Echo-Chat#readme",
   "description": ""
 }
