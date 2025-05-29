@@ -31,7 +31,7 @@ Check it out here: [https://echochat-75x2.onrender.com](https://echochat-75x2.on
 
 - Settings / Theme Switcher
   
-  ![](./assets/settings_page.png)
+  ![](./assets/setting_page.png)
 
 ---
 
